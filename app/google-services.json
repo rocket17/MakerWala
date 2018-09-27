@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736358787240",
+    "firebase_url": "https://makerwala-1538061434868.firebaseio.com",
+    "project_id": "makerwala-1538061434868",
+    "storage_bucket": "makerwala-1538061434868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736358787240:android:354bc92352f112d9",
+        "android_client_info": {
+          "package_name": "org.maker.wala.makerwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736358787240-s28msaiiavk2b36ad5tv6ujn3nrfvhu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.maker.wala.makerwala",
+            "certificate_hash": "9e6472dd67def08f9b0235fa0adfa6c4c8bff34f"
+          }
+        },
+        {
+          "client_id": "736358787240-57i384kd25bj1125n72od3f6fsin372o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2G2jkSCbjLhhvhsZg4HXOLCn2DyVYnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736358787240-57i384kd25bj1125n72od3f6fsin372o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
